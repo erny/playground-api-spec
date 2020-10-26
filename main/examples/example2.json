@@ -1,6 +1,7 @@
 {
   "request": {
-    "url": "/"
+    "url": "/",
+    "method": "get"
   },
   "response": {
     "content-type": "application/json",

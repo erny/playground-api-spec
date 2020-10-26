@@ -8,6 +8,6 @@ Response:
 
 {
   "name": "Test Service",
-  "version": "2.2.1"
+  "version": "0.1.1"
 }
 
